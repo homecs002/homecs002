@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HoMe
-- 👀 I’m interested in Edge-AI
-- 🌱 I’m currently learning LLMs and Pytorch
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：homecs002@gmail.com
 - 😄 Pronouns: ...
